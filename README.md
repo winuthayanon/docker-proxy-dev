@@ -1,10 +1,10 @@
 # docker-proxy
-nginx-web, nginx-gen and nginx-letsencrypt
+nginx-web-dev, nginx-gen-dev and nginx-letsencrypt-dev
 
 # How to install
-git clone https://github.com/winuthayanon/docker-proxy
+git clone https://github.com/winuthayanon/docker-proxy-dev
 
-cd docker-proxy
+cd docker-proxy-dev
 
 # Setup and run by this command.
 ./start.sh
